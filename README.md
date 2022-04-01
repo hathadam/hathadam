@@ -56,5 +56,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 <a href="https://github.com/chanychi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gainb&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hathadam&show_icons=true&count_private=true&theme=dracula" />
 </a>
