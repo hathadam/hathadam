@@ -13,6 +13,12 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MaterialUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logoo=vercel&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+
 ### Back-end Techs
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
@@ -40,6 +46,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?flat&logo=figma&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-%23000000.svg?flat&logo=excalidraw&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 <a href="https://github.com/chanychi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hathadam&show_icons=true&count_private=true&theme=dracula" />
