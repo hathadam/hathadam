@@ -3,7 +3,7 @@
 ## 👋👋👋 Hello World 👋👋👋
 
 
-<p align="center">&nbsp; </p>
+
 <h3 align="center">I am Hatha Dam, a software engineer 👩🏻‍💻 from Seattle, WA.</h3>
 
 <p align="center">&nbsp; </p>
