@@ -1,6 +1,9 @@
 <h3 align="center">Welcome to my GitHub Profile 👋</h3>
 <h3 align="center">I am Hatha, a software engineer 👩🏻‍💻 from Seattle, WA.</h3>
 <p align="center"><b>Feel free to reach out on </b></p>
+
+# Ratings and Reviews
+### **Contributor: Hatha Dam**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatha-dam-45b05a78/)
 
 <p align="center">&nbsp; </p>
