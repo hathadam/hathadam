@@ -23,22 +23,22 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
-### Deployment
+### Deployment/Testing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/%E2%86%91-Heroku-7056bf.svg)
-### Version Control
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+### Coding Environments/Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![jQuery](https://img.shields.io/badge/Jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
-
-### Coding Environments
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-#### White Boarding tools
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
+### White Boarding tools/Notes
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?flat&logo=figma&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-%23000000.svg?flat&logo=excalidraw&logoColor=white)
-### Notes
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 <a href="https://github.com/chanychi/github-readme-stats">
