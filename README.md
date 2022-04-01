@@ -9,13 +9,7 @@
 <h3 align="center">I am Hatha Dam, a software engineer 👩🏻‍💻 from Seattle, WA.</h3>
 
 <p align="center">&nbsp; </p>
-<p align="center">
-<b>...................................................
-</b> 
-</p>
 
-
-<p align="center"><b>>...................................................</b></p>
 
 
 <p align="center"><b>Feel free to reach out on <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)" href="https://www.linkedin.com/in/hathadam/" /></b><p>
