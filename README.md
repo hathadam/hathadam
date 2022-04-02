@@ -42,7 +42,7 @@
 ![jQuery](https://img.shields.io/badge/Jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-### White Boarding tools/Notes
+### White Boarding Tools/Notes
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?flat&logo=figma&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-%23000000.svg?flat&logo=excalidraw&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
